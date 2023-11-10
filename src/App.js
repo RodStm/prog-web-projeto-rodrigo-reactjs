@@ -49,11 +49,11 @@ function App() {
         )}
       </ul>
 
-      <li key={repositories.id}>    
+          
         <button onClick={handleAddRepository}>
           Adicionar
         </button>
-      </li>
+      
 
     </div>
   );
